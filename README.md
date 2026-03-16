@@ -1,1 +1,2 @@
-# i have been trying to revert i hope this works.
+# git-revert-repo
+Using the read me to practice git reverting
